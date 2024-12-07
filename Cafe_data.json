@@ -6,7 +6,7 @@
     {"CafeName": "Gathering Grounds","Price":"$1-10","Rating":"3.8/5","Location":"10637 Braddock Rd.","CafeImage":"https://raw.githubusercontent.com/knegash13/Cafe-Data/master/gathering%20grounds.jpg","CafeWebsite":"https://gathering-groundscafe.square.site/"},
     {"CafeName": "Cafe De Vienna","Price":"$10-20","Rating":"4.9/5","Location":"131 Church St NW","CafeImage":"https://raw.githubusercontent.com/knegash13/Cafe-Data/master/cafe%20de%20vienna.jpg","CafeWebsite":"https://cafedevienna.com"},
     {"CafeName": "Caffe Amouri","Price":"$1-10","Rating":"4.3/5","Location":"109 Church St NE","CafeImage":"https://raw.githubusercontent.com/knegash13/Cafe-Data/master/cafe%20amouri.jpg","CafeWebsite":"https://www.caffeamouri.com/"},
-    {"CafeName": "Starbucks *trial* ","Price":"$10-15","Rating":"4.9/5","Location":"Nonsense land","CafeImage":"https://raw.githubusercontent.com/knegash13/Cafe-Data/master/cafe%20amouri.jpg","CafeWebsite":"https://www.caffeamouri.com/"},
+    {"CafeName": "Starbucks *trial* ","Price":"$10-15","Rating":"4.9/5","Location":"Nonsense land","CafeImage":"https://raw.githubusercontent.com/knegash13/Cafe-Data/master/starbucks.jpg","CafeWebsite":"https://www.starbucks.com/"},
 
 
   ],
